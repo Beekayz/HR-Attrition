@@ -1,2 +1,1 @@
-# HR-Attrition
-HR workforce analysis 
+# HR-Attrition analysis
